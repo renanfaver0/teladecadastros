@@ -1,4 +1,4 @@
-## Tela de Cadastro PHP
+## Tela de cadastro PHP
 
 Desenvolvi o projeto PHP nas aulas de Programação Web 2 pela escola Etec Polivalante de Americana.
 O projeto trata-se de uma tela de login, onde o usuário se cadastra e as informações são enviadas para o banco de dados. Utilizei o banco MySQL juntamente com o HeidSQL.
